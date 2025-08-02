@@ -26,4 +26,35 @@ and also it is helpful for all small towns where their is no more reach of autho
 - Basic design with HTML, CSS, and JavaScript
 
 ### ❌ Backend (Not yet completed)
-Due to time constraints and teammate travel (in train coming to college), the backend integration is …
+Due to time constraints and teammate travel (in train coming to college), the backend integration is … pending
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- GitHub for version control
+
+---
+
+## 🧠 Future Plans
+
+- Add backend with Node.js & Express
+- Store and manage complaints in MongoDB
+- Admin panel for authorities
+- Status tracking and map integration
+
+---
+
+
+---
+
+## 🙏 Note
+
+We built this with the spirit of problem-solving for small towns in India. While the backend is incomplete, our prototype represents a *realistic and scalable solution* for local governance.
+
+---
+
+Thank you for reviewing our project!
