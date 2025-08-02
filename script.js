@@ -5,10 +5,14 @@ form.addEventListener('submit', function (e) {
   e.preventDefault();
 
   const name = document.getElementById('name').value;
+  const category = document.getElementById('category').value;
   const issue = document.getElementById('issue').value;
 
   const li = document.createElement('li');
-  li.textContent = ${name} reported: ${issue};
+  li.innerHTML = `
+    <strong>${category}</strong> - ${name} reported: ${issue} 
+    <br><span>Status: <b style="color: orange;">Pending</b></span>
+  `;
 
   list.appendChild(li);
   form.reset();
