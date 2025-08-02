@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CivicDesk - Chhura</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>CivicDesk - Chhura Nagar Panchayat</h1>
+
+  <form id="complaintForm">
+    <label for="name">Your Name:</label>
+    <input type="text" id="name" required />
+
+    <label for="issue">Complaint:</label>
+    <textarea id="issue" required></textarea>
+
+    <button type="submit">Submit Complaint</button>
+  </form>
+
+  <h2>Submitted Complaints</h2>
+  <ul id="complaintList"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
