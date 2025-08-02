@@ -25,6 +25,8 @@ and also it is helpful for all small towns where their is no more reach of autho
 - Pages to submit issues
 - Basic design with HTML, CSS, and JavaScript
 
+- click here to view the live frontend- (https://rk7255078224.github.io/Civicdesk-chhura/)
+
 ### ❌ Backend (Not yet completed)
 Due to time constraints and teammate travel (in train coming to college), the backend integration is … pending
 
